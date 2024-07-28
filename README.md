@@ -61,7 +61,8 @@ Pour restreindre l'accès aux commandes uniquement à certains groupes, modifiez
     module.exports = { checkPermissions };
 
 ## 📜 Commandes Disponibles
-/monitor [user] : Ajoute un utilisateur à la surveillance.
-/unmonitor [user] : Retire un utilisateur de la surveillance.
-/setmodchannel [channel] : Définit le canal de modération.
-/removemodchannel : Supprime le canal de modération actuellement défini.
+
+- /monitor [user] : Ajoute un utilisateur à la surveillance.
+- /unmonitor [user] : Retire un utilisateur de la surveillance.
+- /setmodchannel [channel] : Définit le canal de modération.
+- /removemodchannel : Supprime le canal de modération actuellement défini.
