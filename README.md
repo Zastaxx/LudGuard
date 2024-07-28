@@ -46,7 +46,6 @@ LudBot est un bot Discord conçu pour faciliter la surveillance et la gestion de
 
 ## ⚙️ Configuration des Permissions
 Pour restreindre l'accès aux commandes uniquement à certains groupes, modifiez le fichier checkPermissions.js pour inclure les IDs des groupes autorisés.
-    ```javascript
 
     const allowedRoleIds = [
     "419551212560449547", // QUEEN
