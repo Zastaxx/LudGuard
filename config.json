@@ -1,0 +1,6 @@
+{
+  "token": "token",
+  "clientId": "clien_id_bot",
+  "guildId": "discord_id",
+  "database": "./database.sqlite"
+}
