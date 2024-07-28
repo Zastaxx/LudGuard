@@ -20,7 +20,7 @@ LudBot est un bot Discord conçu pour faciliter la surveillance et la gestion de
 1. **Cloner le Dépôt**
 
    ```bash
-   git clone https://github.com/yourusername/LudBot.git
+   git clone https://github.com/Zastaxx/LudBot.git
 
 2. **Accéder au Répertoire du Projet**
     ```bash
