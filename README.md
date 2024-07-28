@@ -62,7 +62,7 @@ Pour restreindre l'accès aux commandes uniquement à certains groupes, modifiez
 
 ## 📜 Commandes Disponibles
 
-- /setmodchannel [channel] : Définit le canal de modération. (commande a éxectuer en 1er)
+- /setmodchannel [channel] : Définit le canal de modération. (commande a exécuter en 1er)
 - /monitor [user] : Ajoute un utilisateur à la surveillance.
 - /unmonitor [user] : Retire un utilisateur de la surveillance.
 - /removemodchannel : Supprime le canal de modération actuellement défini.
