@@ -31,8 +31,8 @@ module.exports = {
       if (surveillance) {
         await surveillance.destroy();
         await interaction.reply({
-          content: `✅ **${user.tag}** n'est plus sous surveillance.`,
-          ephemeral: true,
+          content: `✅ **<@${user.id}>** n'est plus sous surveillance.`,
+          ephemeral: false,
         });
       } else {
         await interaction.reply({

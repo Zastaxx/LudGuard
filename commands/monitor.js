@@ -27,8 +27,8 @@ module.exports = {
     try {
       await Surveillance.create({ userId: user.id });
       await interaction.reply({
-        content: `🎯 **${user.tag}** est maintenant sous surveillance.`,
-        ephemeral: true,
+        content: `🎯 **<@${user.id}>** est maintenant sous surveillance.`,
+        ephemeral: false,
       });
     } catch (error) {
       if (error.name === "SequelizeUniqueConstraintError") {
